@@ -45,7 +45,7 @@ MedInsight is a modern AI-powered web application designed to assist users and h
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/ananyascodes/MedsInsight/tree/main/medsinsight>
+git clone <https://github.com/Deepanshi-0103/MediCare.git>
 cd med_app
 ```
 
@@ -133,4 +133,5 @@ This project is licensed under the MIT License.
   - Future improvements for more personalized and context-aware health advice.
 
 For questions or suggestions, please open an issue!
+
 
